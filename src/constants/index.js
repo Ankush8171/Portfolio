@@ -138,7 +138,7 @@ export const myProjects = [
       {
         id: 3,
         name: "Git",
-        path: "/assets/logos/git.svg",
+        path: "/assets/logos/github.svg",
       },
     ],
   },
@@ -227,12 +227,12 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/ankush-chauhan-1b6b6525a/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
-    name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    name: "Github",
+    href: "",
     icon: "/assets/socials/instagram.svg",
   },
 ];
